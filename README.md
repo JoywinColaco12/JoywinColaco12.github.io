@@ -1,2 +1,3 @@
-# EDIT LATER
-This file is currently in progress. Still left to complete.
+# Differential Equations from a nerd's head
+
+This webpage contains some of my notes drawn from the internet and the lectures delivered by the course instructor.
