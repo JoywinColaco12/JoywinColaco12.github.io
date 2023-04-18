@@ -1,3 +1,3 @@
-# Differential Equations from a nerd's head
+# Info on Project:
 
-This webpage contains some of my notes drawn from the internet and the lectures delivered by the course instructor.
+This repository contains the webpages, figures and other data collections related to the course on Ordinary Differential Equations.
